@@ -2,7 +2,7 @@
 # fail if any commands fails
 set -e
 # debug log
-# set -x
+set -x
 
 #Setup env vars
 LANG="${lang}"
